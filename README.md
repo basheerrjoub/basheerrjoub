@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1>Hi <span style="color: greenn">buddy</span> 😁</h2>
+  <h1>Hi <span style="color: greenn">Pal</span> 😁</h2>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5nvQ7fBWhPVXXOcfRI/giphy.gif" width="300"/>
