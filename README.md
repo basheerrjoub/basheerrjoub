@@ -21,7 +21,7 @@
 My name is Basheer Rjoub.
 </h3>
 <p> 
-I'm a web developer from Palestine, currently a CSE students who has some passion towards computers regarding both the HW & SW.
+I'm a web developer from Palestine, currently a CSE student who has passion towards computers regarding both the HW & SW.
 </p>
 <br>
 <br>
